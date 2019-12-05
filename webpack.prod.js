@@ -29,7 +29,6 @@ module.exports = {
                     options: {
                         limit: 8192, 
                     },
-                // отключите image-webpack-loader, если не собирается
                 }],
             },
             {
