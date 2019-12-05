@@ -1,1 +1,1 @@
-Webpack Project [![Build Status](https://travis-ci.org/coursar/webpack-js-demo.svg?branch=master)](https://travis-ci.org/coursar/webpack-js-demo)
+Webpack Project [![Build Status](https://travis-ci.org/PakhomovaN/10HW.svg?branch=master)](https://travis-ci.org/PakhomovaN/10HW)
